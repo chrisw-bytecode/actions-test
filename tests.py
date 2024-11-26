@@ -2,4 +2,4 @@ def test_dummy():
     pass
 
 def test_hello():
-    hello() == 'hello world'
+    file.hello() == "hello world'"
