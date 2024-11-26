@@ -1,5 +1,6 @@
+import file as f
 def test_dummy():
     pass
 
 def test_hello():
-    file.hello() == "hello world'"
+    f.hello() == "hello world'"
